@@ -1,0 +1,64 @@
+[
+	{
+		"name": "com.google.api.client.json.GenericJson",
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.client.util.GenericData",
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.client.json.GenericJson",
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.client.json.webtoken.JsonWebSignature$Header",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.client.json.webtoken.JsonWebToken$Header",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.client.json.webtoken.JsonWebToken$Payload",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.services.sheets.v4.Sheets$Spreadsheets",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.services.sheets.v4.Sheets$Spreadsheets$Values",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.services.sheets.v4.Sheets$Spreadsheets$Values$Clear",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.services.sheets.v4.model.ClearValuesResponse",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.services.sheets.v4.Sheets$Spreadsheets$Values$Update",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.services.sheets.v4.model.UpdateValuesResponse",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	},
+	{
+		"name": "com.google.api.services.sheets.v4.model.ValueRange",
+		"allDeclaredFields": true,
+		"allPublicConstructors": true
+	}
+]
