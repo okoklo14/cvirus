@@ -31,11 +31,12 @@ public class GoogleSheetService {
     private static final String SHEET_VAL_INPUT_OPTION_RAW = "RAW";
     private static final String SHEET_RANGE_START = "data!A2";
     private static final String SHEET_RANGE_ALL = "data!A2:H";
-
-    @ConfigProperty(name = "data.spreadsheet.id")
-    private String spreadsheetId;
+    
     private Sheets sheets;
-
+    
+    @ConfigProperty(name = "data.spreadsheet.id")
+    String spreadsheetId;
+    
     /**
      * OAuth2.0: Service Account (server to server, accessing own data)
      * https://github.com/googleapis/google-auth-library-java
